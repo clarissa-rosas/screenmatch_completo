@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../.."
+		},
+		{
+			"path": "../../../../../../../../3356-java-web-front-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3356-java-web-front-main"
+	}
+}
